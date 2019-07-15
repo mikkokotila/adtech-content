@@ -1,4 +1,4 @@
-# adtech-content
+# Adtech Content
 A collection of papers, articles, and videos about adtech where I've been an author or co-author of the content.
 
 ## Papers
@@ -7,9 +7,9 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 
 [Compendium of Ad Fraud Knowledge](https://www.wfanet.org/app/uploads/2017/04/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf)
 
-[Independent Auditing of Online Display Advertising Campaigns]()
+[Independent Auditing of Online Display Advertising Campaigns](http://eprints.networks.imdea.org/1480/1/p120-callejo.pdf)
 
-[Is Blockchain Ready to Revolutionize Online Advertising]()
+[Is Blockchain Ready to Revolutionize Online Advertising](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8478235)
 
 [Estimating environmental impact of online advertising and invalid traffic]()
 
@@ -17,8 +17,8 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 
 ## Articles 
 
-Thank You for Ad Blocking
-Shortin' Adtech
+[Thank You for Ad Blocking]()
+[Shortin' Adtech]()
 
 ## Videos
 
