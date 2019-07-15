@@ -19,9 +19,9 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 
 ## Articles 
 
-[Thank You for Ad Blocking]()
+[Thank You for Ad Blocking](http://thankyouforadblocking.com)
 
-[Shortin' Adtech]()
+[Shortin' Adtech](http://shortinadtech.com)
 
 ## Videos
 
