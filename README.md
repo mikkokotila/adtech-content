@@ -1,5 +1,5 @@
 # Adtech Content
-A collection of papers, articles, and videos about adtech where I've been an author or co-author of the content.
+A collection of papers, articles, and videos about adtech where I've been an author, co-author or otherwise contributed.
 
 ## Papers
 
@@ -11,9 +11,11 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 
 [Is Blockchain Ready to Revolutionize Online Advertising](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8478235)
 
-[Estimating environmental impact of online advertising and invalid traffic]()
+[Environmental impact assessment of online advertising](https://reader.elsevier.com/reader/sd/pii/S0195925517303505?token=1D89936322C85EF2F6AC5066847918A2E783A9F7A28AE8D53A09DA10286A562D245D244495B86D763CC4D8AB52ECB285)
 
-[Nameles - An intelligent system for Real-Time Filtering of Invalid Ad Traffic]()
+[Nameles - An intelligent system for Real-Time Filtering of Invalid Ad Traffic](https://botlab.io/wp-content/uploads/2019/07/Nameles-An-intelligent-system-for-Real-Time-Filtering-of-Invalid-Ad-Traffic.pdf)
+
+[Children and Digital Marketing: Rights, risks and responsibilities](https://www.unicef.org/csr/css/Children_and_Digital_Marketing_-_Rights_Risks_and_Responsibilities.pdf)
 
 ## Articles 
 
