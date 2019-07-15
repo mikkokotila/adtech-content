@@ -4,10 +4,15 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 ## Papers
 
 [Media Investor's Guide to Programmatic Media](https://www.wfanet.org/app/uploads/2017/04/programmatic.pdf)
+
 [Compendium of Ad Fraud Knowledge](https://www.wfanet.org/app/uploads/2017/04/WFA_Compendium_Of_Ad_Fraud_Knowledge.pdf)
+
 [Independent Auditing of Online Display Advertising Campaigns]()
+
 [Is Blockchain Ready to Revolutionize Online Advertising]()
+
 [Estimating environmental impact of online advertising and invalid traffic]()
+
 [Nameles - An intelligent system for Real-Time Filtering of Invalid Ad Traffic]()
 
 ## Articles 
