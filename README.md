@@ -27,12 +27,19 @@ Shortin' Adtech
 [Understand the algorithms and you will see the impossiblity of our asks](https://www.youtube.com/watch?v=U__Jx5AIMVE)
 
 [Ad Fraud: Definition](https://www.youtube.com/watch?v=sRODOpieV4s&t=208s)
+
 [Ad Fraud: What can be done about it?](https://www.youtube.com/watch?v=70SujwtHWVU)
+
 [Ad Fraud: The different kinds of fraud](https://www.youtube.com/watch?v=SmHfc9htB6o)
+
 [Ad Fraud: Are all campaigns exposed?](https://www.youtube.com/watch?v=a24YFrP_IRo)
+
 [Ad Fraud: The brand category difference](https://www.youtube.com/watch?v=vmWtd23Mwts)
+
 [Ad Fraud: Does verification solve the problem?](https://www.youtube.com/watch?v=ssQIBlA_5AY&t=135s)
+
 [Ad Fraud: Are white and blacklists any good?](https://www.youtube.com/watch?v=tvun7qVfB1U&t=2s)
+
 [AD Fraud: Are premium publishers a safe haven](https://www.youtube.com/watch?v=GGDd9r0HQJI)
 
 [How The Fraud Eco-System Works & How The Industry Can Tackle The Problem](https://www.youtube.com/watch?v=PwEfwgN51Jc)
