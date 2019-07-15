@@ -18,6 +18,7 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 ## Articles 
 
 [Thank You for Ad Blocking]()
+
 [Shortin' Adtech]()
 
 ## Videos
@@ -40,7 +41,7 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 
 [Ad Fraud: Are white and blacklists any good?](https://www.youtube.com/watch?v=tvun7qVfB1U&t=2s)
 
-[AD Fraud: Are premium publishers a safe haven](https://www.youtube.com/watch?v=GGDd9r0HQJI)
+[Ad Fraud: Are premium publishers a safe haven](https://www.youtube.com/watch?v=GGDd9r0HQJI)
 
 [How The Fraud Eco-System Works & How The Industry Can Tackle The Problem](https://www.youtube.com/watch?v=PwEfwgN51Jc)
 
