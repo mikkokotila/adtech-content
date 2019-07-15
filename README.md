@@ -23,6 +23,10 @@ A collection of papers, articles, and videos about adtech where I've been an aut
 
 [Shortin' Adtech](http://shortinadtech.com)
 
+[Decentralize All Things](http://dcentralize.net)
+
+[TOTES: Protecting children from online advertising](https://internetwizards.io/totes/)
+
 ## Videos
 
 [Is advertising what's wrong with the internet?](https://www.youtube.com/watch?v=Ua1pU3WjY_g&t=)
