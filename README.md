@@ -1,5 +1,5 @@
 # Adtech Content
-A collection of papers, articles, and videos about adtech where I've been an author, co-author or otherwise contributed.
+A collection of papers, articles, and videos about adtech where I've been an author, co-author or otherwise contributed. In addition to the below, I've written hundreds of blog posts and magazine articles, and given countles interviews on the topic of adtech and programmatic advertising.
 
 ## Papers
 
